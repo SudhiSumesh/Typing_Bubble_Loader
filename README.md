@@ -1,8 +1,8 @@
 # Typing Bubble Loader
 
-Live Demo : https://sudhisumesh.github.io/Typing_Bubble_Loader/
-
 This project is about creating a typing bubble loader using HTML and CSS.
+
+Live Demo : https://sudhisumesh.github.io/Typing_Bubble_Loader/
 
 ## Installation
 
